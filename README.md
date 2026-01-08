@@ -109,6 +109,17 @@
 | **Out** | Trim layer out point to current time |
 
 ---
+
+## 📸 Screenshot
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/977518313217347604/1458920132721246432/Screenshot_18.png?ex=696164c1&is=69601341&hm=db094b6096dbde442324d5f0e09ac93db12a130339f64f33ebb4ea3edac4c3d7&=&format=webp&quality=lossless" alt="Moongetsu Toolkit Interface" />
+  <br />
+  <sub><i>Moongetsu Toolkit in action</i></sub>
+</p>
+
+---
+
 <p align="center">
   <img src="https://badgen.net/badge/Built%20for/After%20Effects/red?icon=adobe" alt="After Effects" />
   <img src="https://badgen.net/badge/Language/ExtendScript/orange" alt="ExtendScript" />
